@@ -1,16 +1,27 @@
 ### Hi there 👋
 
-<!--
-**adamhinton/adamhinton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
+  -Pokemon 151 project: https://pokemon-151-project.vercel.app/
+  -Applying for jobs!
+  -Finishing up Lambda School
+  -Future: Make a customizable multiplication table project with persistent user memory and flash cards.
+
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+  -Javascript (ongoing)
+  -Regular Expressions in more detail
+  -GCA Practice
+
 - 💬 Ask me about ...
+  -Chess!
+  -Dancing
+  -Just say hi.
+
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+  -Message on Github
+  -Linkedin: https://www.linkedin.com/in/adam-hinton/
+  
+- 😄 Pronouns: 
+   -He/him
+   
 - ⚡ Fun fact: ...
--->
+  -I was inspired to start at BloomTech because I helped design a website for a free online chess league.
