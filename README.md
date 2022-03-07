@@ -1,15 +1,23 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on ...
+- 
   -Pokemon 151 project: https://pokemon-151-project.vercel.app/
+  
   -Applying for jobs!
+  
   -Finishing up Lambda School
+  
   -Future: Make a customizable multiplication table project with persistent user memory and flash cards.
 
 - 🌱 I’m currently learning ...
+  
   -Javascript (ongoing)
+  
   -Regular Expressions in more detail
+  
   -GCA Practice
+
 
 - 💬 Ask me about ...
   -Chess!
