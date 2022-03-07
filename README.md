@@ -10,6 +10,7 @@
   
   -Future: Make a customizable multiplication table project with persistent user memory and flash cards.
 
+
 - 🌱 I’m currently learning ...
   
   -Javascript (ongoing)
@@ -20,16 +21,23 @@
 
 
 - 💬 Ask me about ...
+  
   -Chess!
+  
   -Dancing
+  
   -Just say hi.
 
+
 - 📫 How to reach me: ...
+  
   -Message on Github
+  
   -Linkedin: https://www.linkedin.com/in/adam-hinton/
   
-- 😄 Pronouns: 
-   -He/him
+- 😄 Pronouns: He/him
    
+
 - ⚡ Fun fact: ...
+
   -I was inspired to start at BloomTech because I helped design a website for a free online chess league.
