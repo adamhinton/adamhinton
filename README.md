@@ -2,22 +2,20 @@
 
 - 🔭 I’m currently working on ...
 - 
-  -Pokemon 151 project: https://pokemon-151-project.vercel.app/
+  -Multiplication Table Fun:  https://github.com/adamhinton/multiplication-table-fun
   
   -Applying for jobs!
   
   -Finishing up Lambda School
   
-  -Future: Make a customizable multiplication table project with persistent user memory and flash cards.
-
 
 - 🌱 I’m currently learning ...
   
-  -Javascript (ongoing)
+  -TypeScript
   
-  -Regular Expressions in more detail
+  -SQL in more detail
   
-  -GCA Practice
+  -Data Structures and Algorithms in more detail
 
 
 - 💬 Ask me about ...
