@@ -6,7 +6,6 @@
   
   -Applying for jobs!
   
-  -Finishing up Lambda School
   
 
 - 🌱 I’m currently learning ...
