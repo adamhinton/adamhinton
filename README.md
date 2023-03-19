@@ -2,19 +2,17 @@
 
 - 🔭 I’m currently working on ...
 - 
-  -Multiplication Table Fun:  https://github.com/adamhinton/multiplication-table-fun
+  -Pokemon 151 Project Backend: https://github.com/Pokemon-151-Project/pokemon-151-project-BE
   
-  -Applying for jobs!
-  
-  
+  -Risk BattleOdds Calculator: https://master.dorqegfj1nrtm.amplifyapp.com/
 
 - 🌱 I’m currently learning ...
   
   -TypeScript
   
-  -SQL in more detail
+  -Node/Express
   
-  -Data Structures and Algorithms in more detail
+  -NextJS
 
 
 - 💬 Ask me about ...
