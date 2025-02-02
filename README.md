@@ -2,9 +2,11 @@
 
 - 🔭 I’m currently working on ...
 - 
-  -Pokemon 151 Project Backend: https://github.com/Pokemon-151-Project/pokemon-151-project-BE
+  -CMDBuddy: https://www.cmd-buddy.com/
   
-  -Risk BattleOdds Calculator: https://master.dorqegfj1nrtm.amplifyapp.com/
+  -Risk BattleOdds Calculator: [risk-battleodds-calculator.adam-hinton.com/](https://risk-battleodds-calculator.adam-hinton.com/)
+
+  -MileageBuddy (Work in progress) : https://github.com/adamhinton/mileagebuddy/
 
 - 🌱 I’m currently learning ...
   
