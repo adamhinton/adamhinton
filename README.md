@@ -8,15 +8,11 @@
   
   -Risk BattleOdds Calculator: [risk-battleodds-calculator.adam-hinton.com/](https://risk-battleodds-calculator.adam-hinton.com/)
 
-  -MileageBuddy (Work in progress) : https://github.com/adamhinton/mileagebuddy/
-
 - 🌱 I’m currently learning ...
   
-  -TypeScript
+  - AI Engineering
   
-  -Node/Express
-  
-  -NextJS
+  - Python (more in depth)
 
 
 - 💬 Ask me about ...
