@@ -2,12 +2,10 @@
 
 - 🔭 I’m currently working on ...
 
-  -MileageBuddy: https://mileagebuddy.vercel.app/
-  
-  -CMDBuddy: https://www.cmd-buddy.com/
-  
-  -Risk BattleOdds Calculator: [risk-battleodds-calculator.adam-hinton.com/](https://risk-battleodds-calculator.adam-hinton.com/)
+  -Chess Opening Recommender: https://github.com/adamhinton/chess-opening-recommender-web  
 
+  -MileageBuddy: https://mileagebuddy.vercel.app/
+    
 - 🌱 I’m currently learning ...
   
   - AI Engineering
